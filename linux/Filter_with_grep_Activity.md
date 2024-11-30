@@ -1,4 +1,4 @@
-# Exemplar: Filter with grep
+# Filter with grep
 
 ## Activity Overview
 In this lab activity, you’ll use the `grep` command and piping to search for files and return specific information from files. 

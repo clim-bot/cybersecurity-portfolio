@@ -1,5 +1,5 @@
 
-# Exemplar: Manage Files with Linux Commands
+# Manage Files with Linux Commands
 
 ## Activity Overview
 In this lab activity, you’ll use Linux commands to modify a directory structure and the files it contains. You’ll also use the nano text editor to add text to a file.

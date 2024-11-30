@@ -1,5 +1,5 @@
 
-# Exemplar: Add and Manage Users with Linux Commands
+# Add and Manage Users with Linux Commands
 
 ## Experiment Overview
 This lab activity focuses on managing user access in Linux, including adding new users, modifying their groups, managing file permissions, and removing users. It emphasizes the practical use of Linux commands to ensure security in an organization.

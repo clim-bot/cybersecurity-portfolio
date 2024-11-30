@@ -1,5 +1,5 @@
 
-# Exemplar: Install Software in a Linux Distribution
+# Install Software in a Linux Distribution
 
 ## Activity Overview
 In this lab activity, you used the Advanced Package Tool (APT) and `sudo` to install and uninstall applications in a Linux Bash shell.

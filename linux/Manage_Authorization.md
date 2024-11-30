@@ -1,5 +1,5 @@
 
-# Exemplar: Manage Authorization
+# Manage Authorization
 
 ## Activity Overview
 In this lab activity, you’ll use Linux commands to configure authorization. Authorization ensures that access to resources is controlled to prevent unauthorized access and modifications.
